@@ -1,0 +1,19 @@
+{
+  "name": "typescript-project-template",
+  "version": "1.0.0",
+  "description": "A simple template to easily start a typescript project",
+  "main": "src/index.ts",
+  "scripts": {},
+  "author": "Reza Rahemtola",
+  "license": "MIT",
+  "repository": "github:RezaRahemtola/typescript-project-template",
+  "bugs": {
+    "url": "https://github.com/RezaRahemtola/typescript-project-template/issues"
+  },
+  "homepage": "https://github.com/RezaRahemtola/typescript-project-template#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "typescript": "^4.8.4"
+  }
+}

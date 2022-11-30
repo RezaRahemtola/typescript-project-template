@@ -1,6 +1,7 @@
 {
   "name": "typescript-project-template",
   "version": "1.0.0",
+  "type": "module",
   "description": "A simple template to easily start a typescript project",
   "main": "src/index.ts",
   "scripts": {},

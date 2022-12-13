@@ -4,7 +4,10 @@
   "type": "module",
   "description": "A simple template to easily start a typescript project",
   "main": "src/index.ts",
-  "scripts": {},
+  "scripts": {
+    "lint": "eslint src/**/*.ts",
+    "lint:fix": "eslint --fix src/**/*.ts"
+  },
   "author": "Reza Rahemtola",
   "license": "MIT",
   "repository": "github:RezaRahemtola/typescript-project-template",

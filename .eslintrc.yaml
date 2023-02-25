@@ -14,3 +14,6 @@ parserOptions:
   project: tsconfig.json
   ecmaVersion: latest
   sourceType: module
+
+rules:
+  no-plusplus: ["error", { "allowForLoopAfterthoughts": true }]
